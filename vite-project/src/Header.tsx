@@ -1,7 +1,7 @@
 // import App from "./App.tsx";
 import "./index.scss";
 
-export function Header() {
+function Header() {
 	return (
 		<>
 			<a href="https://vitejs.dev" target="_blank">
